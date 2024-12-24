@@ -3,7 +3,7 @@ build:
 
 accounts:
   version: "2.0"
-  message: "Welcome to my microservices project (QA profile) [additional check actuator text_333]"
+  message: "Welcome to my microservices project (QA profile) [additional check actuator text]"
   contactDetails:
     name: "Akhil (QA Lead)"
     email: "Akhil.visionary@gmail.com"
