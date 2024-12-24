@@ -1,0 +1,11 @@
+build:
+  info: "2.0"
+
+loans:
+  message: "Welcome to the Loans MicroService (QA Profile)"
+  contactInfo:
+    name: "Sreekar (QA Lead)"
+    email: "sreekar.visionary@gmail.com"
+  onCallSupport:
+    -8106603723
+    -9121898714

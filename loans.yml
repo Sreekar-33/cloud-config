@@ -1,0 +1,12 @@
+build:
+  info: "3.0"
+
+loans:
+  message: "Welcome to the Loans MicroService (Default Profile)"
+  contactInfo:
+    name: "Vandana"
+    email: "vandana.visionary@gmail.com"
+  onCallSupport:
+    -9848611478
+    -9121898714
+

@@ -1,0 +1,11 @@
+build:
+  info: "2.0"
+
+cards:
+  message: "Welcome to my microservices project QA profile"
+  contactDetails:
+    name: "vandana (QA LEAD)"
+    email: "vandana.visionary@gmail.com"
+  onCallDetails:
+    - 8106603723
+    - 9121898714

@@ -1,0 +1,13 @@
+build:
+  info: "3.0"
+
+accounts:
+  version: "3.0"
+  message: "Welcome to my microservices project Default profile"
+  contactDetails:
+    name: "Sreekar"
+    email: "sreekar.visionary@gmail.com"
+  onCallSupport:
+    -8106603723
+    -9121898714
+

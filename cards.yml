@@ -1,0 +1,11 @@
+build:
+  info: "3.0"
+
+cards:
+  message: "Welcome to my microservices project Default profile"
+  contactDetails:
+    name: "Akhil"
+    email: "akhil.visionary@gmail.com"
+  onCallDetails:
+    - 9701802512
+    - 9837273980

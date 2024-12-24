@@ -1,0 +1,12 @@
+build:
+  info: "2.0"
+
+accounts:
+  version: "2.0"
+  message: "Welcome to my microservices project (QA profile)"
+  contactDetails:
+    name: "Akhil (QA Lead)"
+    email: "Akhil.visionary@gmail.com"
+  onCallSupport:
+    -9959183219
+    -9121898714

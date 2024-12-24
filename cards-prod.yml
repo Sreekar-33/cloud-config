@@ -1,0 +1,11 @@
+build:
+  info: "1.0"
+
+cards:
+  message: "Welcome to my microservices project PROD profile"
+  contactDetails:
+    name: "Sreekar (Prod Lead)"
+    email: "sreekar.visionary@gmail.com"
+  onCallDetails:
+    - 9121898714
+    - 8106603723

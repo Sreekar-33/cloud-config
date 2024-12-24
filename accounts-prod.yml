@@ -1,0 +1,12 @@
+build:
+  info: "1.0"
+
+accounts:
+  version: "1.0"
+  message: "Welcome to my microservices project (Prod profile)"
+  contactDetails:
+    name: "Vandana (Prod Lead)"
+    email: "vandana.visionary@gmail.com"
+  onCallSupport:
+    -9848611478
+    -9121898714

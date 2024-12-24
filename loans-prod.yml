@@ -1,0 +1,11 @@
+build:
+  info: "1.0"
+
+loans:
+  message: "Welcome to the Loans MicroService (Prod Profile)"
+  contactInfo:
+    name: "Akhil (Prod Lead)"
+    email: "akhil.visionary@gmail.com"
+  onCallSupport:
+    -9959183219
+    -9121898714
